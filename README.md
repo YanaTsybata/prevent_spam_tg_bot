@@ -12,6 +12,7 @@ A simple yet powerful Telegram bot designed to keep your group chats clean by au
 - **Service Message Cleanup**: Automatically deletes join/leave notifications
 - **Simple Response System**: Responds to basic commands and mentions
 
+
 ## Requirements
 
 - Python 3.7+
